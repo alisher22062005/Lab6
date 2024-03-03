@@ -1,6 +1,5 @@
 
 import os
-import sys
  
 # Checking existence
 path1 = os.access("row.txt", os.F_OK)
